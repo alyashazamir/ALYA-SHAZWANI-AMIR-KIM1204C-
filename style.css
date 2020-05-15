@@ -1,0 +1,39 @@
+main
+{
+margin:0;
+padding:0;
+font-family:verdana;
+position:center;
+}
+header
+{
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+ul
+{
+float:right;
+list-style-type:none;
+margin:50px;
+}
+ul li
+{
+display:inline-block;
+}
+ul li a
+{
+color:white;
+border-color:white;
+font-family:verdana;
+padding: 5px 20px
+border:1px solid
+}
+table
+{
+border:5px;
+background-color: transparent;
+border-color: lightgrey;
+color: white;
+font-family: Century Gothic;
+}

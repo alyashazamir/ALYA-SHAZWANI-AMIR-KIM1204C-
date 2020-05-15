@@ -1,0 +1,196 @@
+<html>
+<head>
+<title>This is Me</title>
+<link rel="stylesheet" type="text/css"
+href="" />
+</head>
+<body>
+<body background="gambar5.jpeg">
+<header>
+<div id="main">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="others.html">Others</a></li>
+</ul>
+<br>
+<br>
+<p align="center"><font face="geneva" size="30" background color= "white">My Beloved Family</font></p>
+<br>
+<br>
+<div id="table">
+<table border="1"width="30%"align="center"cellpadding="5"cellspacing="3">
+<tr align="center">
+<td colspan="5"><img src="family8.jpeg" width="350" height="350"></td>
+</tr>
+
+<tr align="center">
+<th>Father</th>
+</tr>
+
+<tr align="center">
+<td>Amir Bin Yusof</td>
+</tr>
+
+<tr align="center">
+<td>1 May 1967</td>
+</tr>
+
+<tr align="center">
+<td>53 years old</td>
+</tr>
+
+<tr align="center">
+<td>Cooking</td>
+</tr>
+</table>
+<br>
+<br>
+<table border="1"width="30%"align="center"cellpadding="5"cellspacing="3">
+<tr align="center">
+<td colspan="5"><img src="family15.jpeg"  width="350" height="350"></td>
+</tr>
+
+<tr align="center">
+<th>Mother</th>
+</tr>
+
+<tr align="center">
+<td>Nora Binti Yob</td>
+</tr>
+
+<tr align="center">
+<td>28 December 1967 </td>
+</tr>
+
+<tr align="center">
+<td>53 years old</td>
+</tr>
+
+<tr align="center">
+<td>Watching Television</td>
+</tr>
+</table>
+<br>
+<br>
+<table border="1"width="30%"align="center"cellpadding="5"cellspacing="3">
+<tr align="center">
+<td colspan="5"><img src="family13.jpeg"  width="350" height="350"></td>
+</tr>
+
+<tr align="center">
+<th>Oldest Sister</th>
+</tr>
+
+<tr align="center">
+<td>Aida Fitriah Binti Amir</td>
+</tr>
+
+<tr align="center">
+<td>20 January 1998</td>
+</tr>
+
+<tr align="center">
+<td>22 years old</td>
+</tr>
+
+<tr align="center">
+<td>Cleaning</td>
+</tr>
+</table>
+<br>
+<br>
+<table border="1"width="30%"align="center"cellpadding="5"cellspacing="3">
+<tr align="center">
+<td colspan="5"><img src="family10.jpeg"  width="350" height="350"></td>
+</tr>
+
+<tr align="center">
+<th>Second Child (Me)</th>
+</tr>
+
+<tr align="center">
+<td>Alya Shazwani Binti Amir</td>
+</tr>
+
+<tr align="center">
+<td>6 February 1999</td>
+</tr>
+
+<tr align="center">
+<td>21 years old</td>
+</tr>
+
+<tr align="center">
+<td>Drawing</td>
+</tr>
+<br>
+<br>
+<table border="1"width="30%"align="center"cellpadding="5"cellspacing="3">
+<tr align="center">
+<td colspan="5"><img src="family12.jpeg"  width="350" height="350"></td>
+</tr>
+
+<tr align="center">
+<th>Third Child</th>
+</tr>
+
+<tr align="center">
+<td>Anis Sofea Binti Amir</td>
+</tr>
+
+<tr align="center">
+<td>24 April 2002</td>
+</tr>
+
+<tr align="center">
+<td>18 years old</td>
+</tr>
+
+<tr align="center">
+<td>Drawing</td>
+</tr>
+<br>
+<br>
+<table border="1"width="30%"align="center"cellpadding="5"cellspacing="3">
+<tr align="center">
+<td colspan="5"><img src="family14.jpeg"  width="350" height="350"></td>
+</tr>
+
+<tr align="center">
+<th>Last Child</th>
+</tr>
+
+<tr align="center">
+<td>Aishah Hanani Binti Amir</td>
+</tr>
+
+<tr align="center">
+<td>2 September 2006</td>
+</tr>
+
+<tr align="center">
+<td>14 years old</td>
+</tr>
+
+<tr align="center">
+<td>Playing E-games</td>
+</tr>
+<br>
+<br>
+</table>
+</div>
+</header>
+<br>
+<p align="center"><a href="biodata.html"><img src="back.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="index.html"><img src="home.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="education.html"><img src="next.png" width="150" height="100"></a></p>
+<br>
+</body>
+</html>

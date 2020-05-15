@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>My Favourite</title>
+</head>
+<body>
+<body background="gambar11.jpeg">
+<header>
+<div id="main">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="others.html">Others</a></li>
+</ul>
+</div>
+</header>
+<br>
+<br>
+<p align="center"><font face="geneva" size="30" background color= "white">All Time Favourite</font></p>
+<br>
+<br>
+<ul><h3>A-must-hear Song</h3>
+<br>
+<li><a href="blackpearl.mp3">Black Pearl by Sunmi</a></li>
+<br>
+<a href="sayso.mp3">Say So (Japenese ver. Cover) by Rainych Ran</a>
+<br>
+<li><a href="chlorine.mp3">Chlorine by Twenty One Pilot</a></li>
+<br>
+<li><a href="decode.mp3">Decode by Paramore</a></li>
+<br>
+<li><a href="bellyache.mp3">Bellyache by Billie Eilish</a></li>
+<br>
+<li><a href="awkwardsilence.mp3">Awkward Silence by Stray Kids</a></li>
+<br>
+<li><a href="plutoprojector.mp3">Pluto Projector by Rex Orange County</a></li>
+<br>
+<li><a href="royal.mp3">Royal by Lorde</a></li>
+<br>
+<li><a href="scream.mp3">Scream by Dreamcatcher</a></li>
+<br>
+<li><a href="closetome.mp3">Close to Me by Ellie Goulding ft. Red Velvet</a></li>
+<br>
+<embed src="cancan.mp3" hidden="true" autostart="true" volume="30"></embed>
+<br>
+<br>
+<h3>A-must Watch</h3>
+<br>
+<h4>Favourite Films</h4>
+<embed src="favouritefilms.mp4" autoplay="false" loop="false" width="450" height="450" volume="100"></embed>
+<br>
+<br>
+<p align="center"><a href="gallery.html"><img src="back.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="index.html"><img src="home.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="index.html"><img src="next.png" width="150" height="100"></a></p>
+<br>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Photo Album</title>
+</head>
+<body>
+<body background="gambar11.jpeg"
+<header>
+<div id="main">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="others.html">Others</a></li>
+</ul>
+</div>
+</header>
+<p align="center"><font face="geneva" size="30" background color= "white">Gallery</font>
+<br>
+<br>
+<img src="family1.jpeg" width="300" height="300" border="5" align="center">
+<img src="family2.jpeg" width="300" height="300" border="5" align="center">
+<img src="family5.jpeg" width="300" height="300" border="5" align="center">
+<img src="family3.jpeg" width="300" height="300" border="5" align="center">
+<img src="family9.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<img src="family16.jpeg" width="300" height="300" border="5" align="center">
+<img src="family20.jpeg" width="300" height="300" border="5" align="center">
+<img src="family4.jpeg" width="300" height="300" border="5" align="center">
+<img src="family7.jpeg" width="300" height="300" border="5" align="center">
+<img src="family18.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<img src="gambar16.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar17.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar15.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar19.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar18.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<img src="gambar20.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar22.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar23.jpeg" width="300" height="300" border="5" align="center">
+<img src="me1.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar21.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<img src="limau1.jpeg" width="300" height="300" border="5" align="center">
+<img src="labulabi1.jpeg" width="300" height="300" border="5" align="center">
+<img src="raven1.jpeg" width="300" height="300" border="5" align="center">
+<img src="rocket3.jpeg" width="300" height="300" border="5" align="center">
+<img src="rocket1.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<img src="me2.jpeg" width="300" height="300" border="5" align="center">
+<img src="me3.jpeg" width="300" height="300" border="5" align="center">
+<img src="me5.jpeg" width="300" height="300" border="5" align="center">
+<img src="me7.jpeg" width="300" height="300" border="5" align="center">
+<img src="me4.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<img src="gambar3.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar2.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar8.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar4.jpeg" width="300" height="300" border="5" align="center">
+<img src="gambar10.jpeg" width="300" height="300" border="5" align="center">
+<br>
+<br>
+<br>
+<p align="center"><a href="experience.html"><img src="back.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="index.html"><img src="home.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="others.html"><img src="next.png" width="150" height="100"></a></p>
+<br>
+</body>
+</html>

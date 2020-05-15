@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>My Schooling</title>
+</head>
+<body>
+<body background="gambar12.jpeg">
+<header>
+<div id="main">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="others.html">Others</a></li>
+</ul>
+</div>
+</header>
+<br>
+<br>
+<p align="center"><font face="geneva" size="30" background color= "white">List of My Schooling</font></p>
+<br>
+<br>
+<p align="center" background color="white">
+<dl>
+<dt>Sekolah Kebangsaan Berapit (SKB)</dt>
+<br>
+<dd>I started my studies in this school in 2006 until 2011. It's a place full with memories because  the  it is so near to my grandparents house. Most of my childhood time was spent with my grandparents; only in evening because my siblings and I do not stay at my grandparents house. We really close to our grandparents. Althought my parents is super busy with their work, they still have time for us. Sometimes, in the wwwkend, they would took us to a day trip and visit places. Besides that, I took UPSR there. My result was average.</dd>
+<br>
+<br>
+<br>
+<br>
+<dt>Sekolah Menengah Agama Sungai Petani (SMASP)</dt>
+<br>
+<dd>With 2As and 3Bs of my UPSR result, I got into SMASP; also with passing the interviews. I felt fortunate because I was given the chance to study in this school. It is a really small school. The students were not more than 500; If I'm not mistaken. The school was great; because it is not many students, the teachers gave more attention towards us. I stayed in hostel from day 1 until the end of my SPM exam. My SPM result is okay. There are so many incredible people that I've met when study in this school. It is definitely a wonderful time in my life.</dd>
+<br>
+<br>
+<br>
+<br>
+<dt>Universiti Teknologi Mara (UiTM Kedah)</dt>
+<br>
+<dd>After taking SPM, I took two years break and finally attend UiTM Kedah. For what can I say is I've learned a lot of new thing that I don't even know. It is a rollercoaster ride for me. So many ups and down that teach me to be a better me; I felt more independant, not relying too much on people. Besides, I learned to take care of myself, following my own pace when doing something and relax. I've met such different personalities of people and it is an eye opener fo me. It is a great journey</dd>
+</dl>
+</p>
+<br>
+<br>
+<p align="center"><a href="family.html"><img src="back.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="index.html"><img src="home.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="experience.html"><img src="next.png" width="150" height="100"></a></p>
+<br>
+</body>
+</html>

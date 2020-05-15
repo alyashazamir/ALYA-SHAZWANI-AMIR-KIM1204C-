@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Experience</title>
+</head>
+<body>
+<body background="gambar12.jpeg">
+<header>
+<div id="main">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="others.html">Others</a></li>
+</ul>
+</div>
+</header>
+<br>
+<br>
+<p align="center"><font face="geneva" size="30" background color= "white">The Story of my Life</font></p>
+<br>
+<br>
+<br>
+<b><font color="" font size="" font face="">At the Sea</font></b>
+<br>
+<br>
+<p><i>Back when I was fourteen years old, my family and I went to the beach; Pantai Murni. It is a great place to spent time with family as we rarely go out in holiday because my parents were quite busy at that time. So, after playing with the sea, I wanted ice-cream cause it is hot out there. Then, my oldest sister and I went to the nearest stall.</p> 
+<p>Suddenly, we found a jellyfish that stranded.And for some reason, a random indian guy came and touched it. He started to get electrified (I don't know why, it's weird though).To make it even worse (or most likely worth a laugh ) is that her wife(?)I think came and touched him and also get the same effect :}.I never felt so confuse( whether to laugh or feel pity for both of them). Otherwise, both of them were save. </i></p>
+<br>
+<br>
+<br>
+<br>
+<b><font color="" font size="" font face="">Hornbill</font></b>
+<br>
+<p><i>There is one time in 2012, my family and I went to Pulau Pangkor for a short vacation. And then, we went for bicycle riding on the second day because my father wanted us to enjoy the beautiful nature there. So, I took the lead.</p>
+<p>Suddenly, a hornbill flew in front of me. I'm so facsinated by it and boom! The second I realized I'm lying on the ground. I felt from the bicycle after not realizing there were a big hole right in front of me ;]. Poor me, but it's not that painful. In fact, I don't feel anything, like literally anything even my toes. </i></p>
+<br>
+<br>
+<br>
+<p align="center"><a href="education.html"><img src="back.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="index.html"><img src="home.png" width="150" height="100"></a></p>
+<br>
+<p align="center"><a href="gallery.html"><img src="next.png" width="150" height="100"></a></p>
+<br>
+</body>
+</html>
